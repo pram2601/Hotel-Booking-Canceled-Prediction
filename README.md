@@ -1,6 +1,6 @@
 # Hotel Booking Canceled Prediction
 
-Developed machine  learning to prediction booking status will cancel or not, based on historical customer data.
+Developed machine  learning to prediction booking status will cancel or not, based on historical customer data. Processing data on notebook, check notebook under README.md
 
 # Technology / Tools :
 Python,  Pandas,  NumPy,  Seaborn,  Matplotlib,  Scikit-Learn, Streamlit, Hugging Face
